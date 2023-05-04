@@ -1,0 +1,2 @@
+states-waste-data.csv filter=lfs diff=lfs merge=lfs -text
+solutions-data.csv filter=lfs diff=lfs merge=lfs -text
